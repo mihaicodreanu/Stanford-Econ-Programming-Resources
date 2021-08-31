@@ -8,6 +8,7 @@ This is a repo to crowdsource useful programming resources and to learn how to u
 - [How to make your first contribution w/ Github desktop](https://github.com/firstcontributions/first-contributions/blob/master/gui-tool-tutorials/github-desktop-tutorial.md)
 
 ## Stata
+- [Jack Blundell Stata](https://jackblun.github.io/metricsinstata/)
 
 ## Python
 - [QuantEcon](https://quantecon.org/). A website with many examples of economic models being solved with Python (and Julia too!).
